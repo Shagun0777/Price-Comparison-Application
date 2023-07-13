@@ -1,8 +1,9 @@
 <h1 align="center">Price Comparison Application</h1>
 
-<p align="center">
-  <img src="https://github.com/Shagun0777/Price-Comparison-Application/assets/85606313/30d2a53e-d04b-4990-be79-bfff525204c7" alt="Price-Comparison-Application">
-</p>
+<div style="width: 100%; text-align: center;">
+  <img src="https://github.com/Shagun0777/Price-Comparison-Application/assets/85606313/30d2a53e-d04b-4990-be79-bfff525204c7" alt="Image Description" style="max-width: 100%;">
+</div>
+
 
 ## Features
 
