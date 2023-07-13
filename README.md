@@ -22,9 +22,3 @@ The  Price Comparison Application is a Python-based web application that allows 
 
 
 
-## Contact Information
-
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
-
----
-Note: Update [Your Name] and [Your Email Address] with your appropriate contact information.
