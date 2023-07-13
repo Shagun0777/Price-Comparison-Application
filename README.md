@@ -4,8 +4,6 @@
   <img src="https://github.com/Shagun0777/Price-Comparison-Application/assets/85606313/30d2a53e-d04b-4990-be79-bfff525204c7" alt="Price-Comparison-Application">
 </p>
 
-The  Price Comparison Application is a Python-based web application that allows users to compare prices of mobile phones etc from various ecommerce sites. This application provides a convenient way for users to find the most affordable options for purchasing a particular mobile phone.
-
 ## Features
 
 - **Web Scraping**: The application utilizes BeautifulSoup, a Python library, to scrape mobile-related data from multiple ecommerce sites. This ensures that the application has access to up-to-date information on mobile phone prices.
