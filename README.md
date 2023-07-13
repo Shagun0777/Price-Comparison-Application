@@ -13,7 +13,7 @@
 
 - **Price Comparison**: The application displays prices from various ecommerce sites side by side, allowing users to compare the prices and identify the most cost-effective option.
 
-- ![image](https://github.com/Shagun0777/Price-Comparison-Application/assets/85606313/6486c8d9-32a1-4ae6-abc2-3d534beae9fd)
+ ![image](https://github.com/Shagun0777/Price-Comparison-Application/assets/85606313/6486c8d9-32a1-4ae6-abc2-3d534beae9fd)
 
 
 ## Tools and Technologies Used
