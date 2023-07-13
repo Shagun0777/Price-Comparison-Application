@@ -7,9 +7,9 @@
 
 ## Features
 
-- **Web Scraping**: The application utilizes BeautifulSoup, a Python library, to scrape mobile-related data from multiple ecommerce sites. This ensures that the application has access to up-to-date information on mobile phone prices.
+- **Web Scraping**: The application utilizes BeautifulSoup, a Python library, to scrape data from multiple ecommerce sites. This ensures that the application has access to up-to-date information prices.
 
-- **Search Functionality**: Users can search for a specific mobile phone by entering its name or model. The application then retrieves pricing information for that mobile phone from different ecommerce sites.
+- **Search Functionality**: Users can search for a specific item by entering its name or model. The application then retrieves pricing information for that from different ecommerce sites.
 
 - **Price Comparison**: The application displays prices from various ecommerce sites side by side, allowing users to compare the prices and identify the most cost-effective option.
 
